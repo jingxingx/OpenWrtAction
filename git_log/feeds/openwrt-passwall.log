@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7ed5fa1|lwb1978|Thu Apr 17 17:28:49 2025 +0800|luci: optimize related to port rule
+cad3d3e|A-BO|Thu Apr 17 22:29:41 2025 +0800|luci: optimize geo query
+434add5|Winter|Thu Apr 17 20:38:29 2025 +0800|luci: cleaned up redundant classes in FAQ page elements (#3833)
 </details>

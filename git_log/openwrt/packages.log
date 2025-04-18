@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3e2576c54|Eric Fahlgren|Wed Apr 16 18:55:56 2025 -0700|owut: update to 2025.04.08
+589debf53|Ryan Press|Wed Apr 16 17:06:59 2025 -0700|libmbim: bump to 1.32.0
+bd8d110e5|Ryan Press|Wed Apr 16 17:09:05 2025 -0700|libqmi: bump to 1.36.0
 </details>
